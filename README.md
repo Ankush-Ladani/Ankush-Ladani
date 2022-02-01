@@ -6,7 +6,7 @@
 
 **I love to Code..😍**
 
-## I am a Front-end Developer having command in following Languagss:
+## I am a Front-end Developer having command in following Languages:
 -  **CSS**
 -  **HTML**
 -  **Javascript**
