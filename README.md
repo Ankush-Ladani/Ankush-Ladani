@@ -11,7 +11,7 @@
 -  **HTML**
 -  **Javascript**
 -  **C++**
--  **React
+-  **React**
 
               
 **Currently I am Focusing On making more Projects for hands-on experience.**
