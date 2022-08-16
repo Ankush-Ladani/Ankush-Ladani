@@ -2,7 +2,7 @@
 
 # Great to See You Here🚀
 
-**Currently I am a 2nd Year student.**
+**Currently I am a 3rd Year student.**
 
 **I love to Code..😍**
 
@@ -11,6 +11,7 @@
 -  **HTML**
 -  **Javascript**
 -  **C++**
+- **React
 
               
 **Currently I am Focusing On making more Projects for hands-on experience.**
