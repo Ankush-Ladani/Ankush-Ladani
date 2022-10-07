@@ -6,12 +6,15 @@
 
 **I love to Code..😍**
 
-## I am a Front-end Developer having command in following Languages:
+## I am a MERN Developer having command in following Languages:
 -  **CSS**
 -  **HTML**
 -  **Javascript**
 -  **C++**
+-  **MongoDB**
+-  **Express**
 -  **React**
+-  **NodeJS**
 
               
 **Currently I am Focusing On making more Projects for hands-on experience.**
