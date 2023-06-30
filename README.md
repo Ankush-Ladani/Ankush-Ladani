@@ -2,7 +2,7 @@
 
 # Great to See You Here🚀
 
-**Currently I am a 3rd Year student.**
+**Currently I am a Final Year student.**
 
 **I love to Code..😍**
 
@@ -10,10 +10,11 @@
 -  **CSS**
 -  **HTML**
 -  **Javascript**
+-  **React**
+-  **TailwindCSS**
 -  **C++**
 -  **MongoDB**
 -  **Express**
--  **React**
 -  **NodeJS**
 
               
@@ -22,10 +23,8 @@
 > I have made following Projects which are listed below: 
 ```ts
    1. CRUD APP
-   2. Hamberger Menu
-   3. Responsive Site 
-   4. Navbars
-   5. Sign-Up Forms
+   2. Food WebSite
+   3. Youtube Clone
 ```
 
 <details>
