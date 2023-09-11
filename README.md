@@ -6,19 +6,17 @@
 
 **I love to Code..😍**
 
-## I am a MERN Developer having command in following Languages:
+## I am a Frontend Developer having command in following Languages:
 -  **CSS**
 -  **HTML**
 -  **Javascript**
 -  **React**
 -  **TailwindCSS**
 -  **C++**
--  **MongoDB**
--  **Express**
--  **NodeJS**
+-  **Redux**
+-  **React Router**
 
               
-**Currently I am Focusing On making more Projects for hands-on experience.**
 
 > I have made following Projects which are listed below: 
 ```ts
