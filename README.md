@@ -2,8 +2,6 @@
 
 # Great to See You Here🚀
 
-**Currently I am a Final Year student.**
-
 **I love to Code..😍**
 
 ## I am a Frontend Developer having command in following Languages:
